@@ -17,7 +17,7 @@ I used to install random tools on my dad’s computer, break it, corrupt it, fix
 My **first-ever attack technique** was _phishing_, like a typical script-kiddie exploring the digital world.
 
 Later, I searched for many cybersecurity-focused colleges but didn’t find the right one…  
-So I chose **:contentReference[oaicite:1]{index=1} (CSE Dept)** — and it became the **biggest turning point** of my life.
+So I chose **Panimalar Engineering College (CSE Dept)** — and it became the **biggest turning point** of my life.
 
 From my **1st year**, I started real cybersecurity learning.  
 My seniors shaped my entire path:
@@ -92,8 +92,8 @@ Focused on **Red Teaming**, **AI Security**, **Autonomous Threat Detection**, an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xDEADVrm&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDEADVrm&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=0xDEADVrm&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=0xDEADVrm&layout=compact&theme=radical" height="180" />
 </div>
 
 ---

@@ -92,8 +92,7 @@ Focused on **Red Teaming**, **AI Security**, **Autonomous Threat Detection**, an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=0xDEADVrm&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=0xDEADVrm&layout=compact&theme=radical" height="180" />
+  <img src="https://ghchart.rshah.org/8b5a2b/KabilPreethamK" alt="Kabil Preetham's Github Chart" class="min-w-[800px] w-full">
 </div>
 
 ---

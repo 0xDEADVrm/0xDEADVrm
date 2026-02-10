@@ -25,11 +25,11 @@ My seniors shaped my entire path:
 
 ### ⭐ People Who Built My Foundation
 - Kabil Preetham K & Ogrelix Team  
-- Akshitha RS & Malathi  
-- Amithabh  
-- Rishyendra M  
 - Sanjai S  
-- Sanjith Roshan U  
+- Sanjith Roshan U
+- Amithabh D K  
+- Rishyendra M  
+- Akshitha RS & Malathi Balaraman  
 
 ### ⭐ Turning Moments
 - **Sanjai S** gave me my first major role: *Cyber Security Club Student Co-ordinator*.  

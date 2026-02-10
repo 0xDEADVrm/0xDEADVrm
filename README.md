@@ -13,10 +13,11 @@ All I knew was one thing:
 
 > **I loved hacking — not “ethical hacking”… just hacking.**
 
+Starting as a **Bio-Maths student**, my curiosity for technology didn’t follow the normal academic path.  
 I used to install random tools on my dad’s computer, break it, corrupt it, fix it again, and repeat — yet he never scolded me.  
-My **first-ever attack technique** was _phishing_, like a typical script-kiddie exploring the digital world.
+My **first-ever attack technique** was *phishing*, like a typical script-kiddie exploring the digital world without limits.
 
-Later, I searched for many cybersecurity-focused colleges but didn’t find the right one…  
+Later, I searched for many cybersecurity-focused colleges but couldn’t find the right one…  
 So I chose **Panimalar Engineering College (CSE Dept)** — and it became the **biggest turning point** of my life.
 
 From my **1st year**, I started real cybersecurity learning.  

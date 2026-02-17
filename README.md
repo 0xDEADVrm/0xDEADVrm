@@ -5,7 +5,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Building%20Secure%20Futures%20in%20Cyberspace&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Red%20Team%20Ops&descAlignY=55)
 
 ---
-
 ## 📖 My Cybersecurity Journey
 
 My story began in the **8th standard**, long before I understood what cybersecurity really was.  
@@ -26,10 +25,12 @@ My seniors shaped my entire path:
 ### ⭐ People Who Built My Foundation
 - Kabil Preetham K & Ogrelix Team  
 - Sanjai S  
-- Sanjith Roshan U
+- Sanjith Roshan U  
 - Amithabh D K  
 - Rishyendra M  
 - Akshitha RS & Malathi Balaraman  
+
+Alongside them, I had strong personal support from my close friend **Kevin Harry A**, who consistently encouraged me and stood by me throughout my journey.
 
 ### ⭐ Turning Moments
 - **Sanjai S** gave me my first major role: *Cyber Security Club Student Co-ordinator*.  
@@ -37,6 +38,7 @@ My seniors shaped my entire path:
 - **Kabil Preetham K** opened a life-changing opportunity — my **first real-time project experience**.
 
 These people transformed me from a curious kid → into a **serious cybersecurity professional**.
+
 
 ---
 
